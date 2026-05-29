@@ -58,7 +58,7 @@ def parsedata(data):
     plt.legend(title="Product")
     plt.show()
 
-def pdata(data):
+def pdata1(data):
     df = pd.DataFrame(data)
     # Calculate revenue by multiplying units sold by price per unit
     df["Revenue"] = df["Units_Sold"] * df["Price_per_Unit"]
@@ -106,5 +106,5 @@ if userinput.strip():
     import data.userinput as ui
 else:
     from data.data import data
-    pdata(data)
+    pdata1(data)
        
