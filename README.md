@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE) <br>
 [![Status: In Development](https://img.shields.io/badge/Status-in--Development-orange.svg)]()
 
 <p align="center">
